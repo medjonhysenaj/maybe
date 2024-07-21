@@ -1,0 +1,5 @@
+com\loginSystem\LoginSystem.class
+com\loginSystem\service\LoginService.class
+com\loginSystem\repository\UserRepository.class
+com\loginSystem\controller\LoginController.class
+com\loginSystem\entity\User.class
